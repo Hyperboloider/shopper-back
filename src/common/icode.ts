@@ -1,0 +1,3 @@
+interface ICode {
+    code: number
+}
